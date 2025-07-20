@@ -4,7 +4,7 @@
 <h3 align="center">💻 Web Developer | 🌐 Frontend & Backend | ☕ Java Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Gauravpandey">
+  <a href="https://github.com/Gaurav240903">
     <img src="https://img.shields.io/badge/GitHub-Gauravpandey-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:gpvns24@gmail.com">
@@ -38,3 +38,24 @@
 📚 Languages   : C · C++ · Java
 🧠 CS Core     : OOPs · Operating System · DBMS · Computer Network
 🧰 Tools/IDE   : VS Code · Eclipse · Git & GitHub
+
+------
+
+## 💼 Projects
+
+Project	Description	Link
+YumExpress (Food Ordering App)	Java + SQL food ordering app that delivers food to user's doorsteps with a clean interface.	Project Link
+FilmFusion (Movie Website)	Movie info website using HTML, CSS, JavaScript. Shows up-to-date movie data and reviews.	Project Link
+Google Clone	A front-end-only clone of the Google homepage using HTML and CSS.	Project Link
+
+------
+
+📬 Get in Touch
+Feel free to reach out for collaboration, projects, or to just say hi!
+
+📧 Email: yeshraj@example.com
+
+🔗 LinkedIn: linkedin.com/in/yeshrajpandey
+
+💻 GitHub: github.com/yeshrajpandey
+
