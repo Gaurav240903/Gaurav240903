@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/gaurav-pandey-98026b258/">
     <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Pandey-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://gaurav240903.github.io/PortfolioWebsite2/">
     <img src="https://img.shields.io/badge/Portfolio-gaurav.dev-9cf?style=for-the-badge&logo=internet-explorer" />
   </a>
 </p>
@@ -43,19 +43,21 @@
 
 ## 💼 Projects
 
-Project	Description	Link
-YumExpress (Food Ordering App)	Java + SQL food ordering app that delivers food to user's doorsteps with a clean interface.	Project Link
-FilmFusion (Movie Website)	Movie info website using HTML, CSS, JavaScript. Shows up-to-date movie data and reviews.	Project Link
-Google Clone	A front-end-only clone of the Google homepage using HTML and CSS.	Project Link
+| **Project**                        | **Description**                                                                             | **Link**         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------- | ---------------- |
+| **YumExpress (Food Ordering App)** | Java + SQL food ordering app that delivers food to user's doorsteps with a clean interface. | [Project Link](https://github.com/Gaurav240903/YumXpress2/tree/master) |
+| **FilmFusion (Movie Website)**     | Movie info website using HTML, CSS, JavaScript. Shows up-to-date movie data and reviews.    | [Project Link](https://github.com/Gaurav240903/Movie-Website) |
+| **Google Clone**                   | A front-end-only clone of the Google homepage using HTML and CSS.                           | [Project Link](https://gaurav240903.github.io/Google-clone-Website/) |
+
 
 ------
 
 📬 Get in Touch
 Feel free to reach out for collaboration, projects, or to just say hi!
 
-📧 Email: yeshraj@example.com
+📧 Email: gpvns24@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/yeshrajpandey
+🔗 LinkedIn: www.linkedin.com/in/gaurav-pandey-98026b258/
 
-💻 GitHub: github.com/yeshrajpandey
+💻 GitHub: github.com/Gaurav240903
 
