@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Skills Snapshot
+## 🛠 Skills
 
 ```bash
 🌐 Front-End   : HTML · CSS · JavaScript · React.js · .NET
