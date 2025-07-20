@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to GP24 profile 👋
 
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <h3 align="center">💻 Web Tech Explorer | 🌐 Web Dev Enthusiast | 💻 Java & Web Dev</h3>
