@@ -31,12 +31,12 @@
 ## 🛠 Skills
 
 ```bash
-🌐 Front-End   : HTML · CSS · JavaScript · React.js · .NET
-🔧 Back-End    : Advanced Java · JDBC · Servlets · JSP
+🌐 Front-End   : HTML|CSS|JavaScript|React.js
+🔧 Back-End    : Advanced Java|JDBC|Servlets|JSP
 🗃️ Database    : SQL
-📚 Languages   : C · C++ · Java
-🧠 CS Core     : OOPs · Operating System · DBMS · Computer Network
-🧰 Tools/IDE   : VS Code · Eclipse · NetBeans
+📚 Languages   : C|C++|Java
+🧠 CS Core     : OOPs|Operating System|DBMS|Computer Network
+🧰 Tools/IDE   : VS Code|Eclipse|NetBeans
 ```
 ------
 
