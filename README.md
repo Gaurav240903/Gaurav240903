@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <p align="center">
   <a href="https://gaurav240903.github.io/PortfolioWebsite2/" target="_blank">
-    🌐 Visit My Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer" />
   </a>
 </p>
 <h3 align="center">💻 Web Tech Explorer | 🌐 Web Dev Enthusiast | 💻 Java & Web Dev</h3>
