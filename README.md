@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Pandey-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://gaurav240903.github.io/PortfolioWebsite2/">
-    <img src="https://img.shields.io/badge/Portfolio-gaurav.dev-9cf?style=for-the-badge&logo=internet-explorer" />
+    <img src="https://img.shields.io/badge/Portfolio-GP24-9cf?style=for-the-badge&logo=internet-explorer" />
   </a>
 </p>
 
