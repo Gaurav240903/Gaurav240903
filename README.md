@@ -1,6 +1,11 @@
 ## Welcome to GP24 profile 👋
 
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
+<p align="center">
+  <a href="https://gaurav240903.github.io/PortfolioWebsite2/" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
+</p>
 <h3 align="center">💻 Web Tech Explorer | 🌐 Web Dev Enthusiast | 💻 Java & Web Dev</h3>
 <p align="center">
   <a href="https://github.com/Gaurav240903" target="_blank">
