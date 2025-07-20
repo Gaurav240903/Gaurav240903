@@ -50,6 +50,15 @@
 
 ---
 
+## 📜 Certifications
+
+- ✅ **5G-IoT Builder Program** – Successfully completed by **FITT-IIT Delhi**
+- ✅ **Data Science Workshop** – Attended and completed at **IIT Hyderabad**
+- ✅ **Java Full Stack Developer** – Completed **TalentNext** course organized by **Wipro**
+- ✅ **AWS Academy Cloud Architecting** – Completed program organized by **ICT Academy & Infosys**
+
+----------------
+
 ## 📫 Get In Touch
 
 Feel free to reach out for collaboration, questions, or just to say hi!
