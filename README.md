@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Yeshraj Pandey</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <h3 align="center">💻 Web Developer | 🌐 Frontend & Backend | ☕ Java Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/yeshrajpandey">
-    <img src="https://img.shields.io/badge/GitHub-yeshrajpandey-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Gauravpandey">
+    <img src="https://img.shields.io/badge/GitHub-Gauravpandey-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:yeshraj@example.com">
-    <img src="https://img.shields.io/badge/Gmail-yeshraj@example.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:gpvns24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gpvns24@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/yeshrajpandey">
-    <img src="https://img.shields.io/badge/LinkedIn-Yeshraj%20Pandey-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/gaurav-pandey-98026b258/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Pandey-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-yeshraj.dev-9cf?style=for-the-badge&logo=internet-explorer" />
+    <img src="https://img.shields.io/badge/Portfolio-gaurav.dev-9cf?style=for-the-badge&logo=internet-explorer" />
   </a>
 </p>
 
