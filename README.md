@@ -41,23 +41,21 @@
 
 ------
 
-## 💼 Projects
+## 🚀 Projects
 
-| **Project**                        | **Description**                                                                             | **Link**         |
-| ---------------------------------- | ------------------------------------------------------------------------------------------- | ---------------- |
-| **YumExpress (Food Ordering App)** | Java + SQL food ordering app that delivers food to user's doorsteps with a clean interface. | [Project Link](https://github.com/Gaurav240903/YumXpress2/tree/master) |
-| **FilmFusion (Movie Website)**     | Movie info website using HTML, CSS, JavaScript. Shows up-to-date movie data and reviews.    | [Project Link](https://github.com/Gaurav240903/Movie-Website) |
-| **Google Clone**                   | A front-end-only clone of the Google homepage using HTML and CSS.                           | [Project Link](https://gaurav240903.github.io/Google-clone-Website/) |
+| Project                     | Description                                                                                                   | Link                                                                                      |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 
+|YumExpress (Food Ordering App) | Java + gui prog + SQL food ordering app that delivers food to user's doorsteps with a clean interface.                                                   | [GitHub Repo](https://github.com/Gaurav240903/YumXpress2/tree/master)                |
+| FilmFusion (Movie Website)     | Movie info website using HTML, CSS, JavaScript. Shows up-to-date movie data and reviews.                                          | [GitHub Repo](https://github.com/Gaurav240903/Movie-Website)             |
+| Google Clone         | A front-end-only clone of the Google homepage using HTML and CSS.                                          | [Live Site](https://gaurav240903.github.io/Google-clone-Website/           |
 
-------
+---
 
-📬 Get in Touch
-Feel free to reach out for collaboration, projects, or to just say hi!
+## 📫 Get In Touch
 
-📧 Email: gpvns24@gmail.com
+Feel free to reach out for collaboration, questions, or just to say hi!
 
-🔗 LinkedIn: www.linkedin.com/in/gaurav-pandey-98026b258/
-
-💻 GitHub: github.com/Gaurav240903
-
+- 📧 Email: gpvns24@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/gaurav-pandey-98026b258/](https://www.linkedin.com/in/gaurav-pandey-98026b258/)  
+- 🐱 GitHub: [https://github.com/Gaurav240903](https://github.com/Gaurav240903)  
