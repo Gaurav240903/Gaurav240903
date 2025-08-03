@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Web+Developer;Java+and+Web+Dev;Web+Tech+Explorer;Always+learning+new+things"></a>
+</p>
+<p align="center">
   <a href="https://gaurav240903.github.io/PortfolioWebsite2/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer" />
   </a>
